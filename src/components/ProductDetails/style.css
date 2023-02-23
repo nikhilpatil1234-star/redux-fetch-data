@@ -1,0 +1,16 @@
+.cardsonecontainer {
+  display: flex;
+  align-items: center;
+  margin: 1% 30%;
+  padding: 3%;
+  width: 600px;
+  min-height: 30vh;
+  border-radius: 31px;
+  background: linear-gradient(145deg, #e6e6e6, #ffffff);
+  box-shadow: 9px 9px 18px #969696, -9px -9px 18px #ffffff;
+}
+.cardsonecontainer img {
+  width: 90%;
+  height: 70%;
+
+}

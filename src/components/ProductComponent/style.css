@@ -1,0 +1,15 @@
+.cardcontainer img {
+  width: 60%;
+  height: 50%;
+}
+.cardcontainer {
+  width: 28%;
+  margin: 2%;
+  border-radius: 31px;
+  background: linear-gradient(145deg, #e6e6e6, #ffffff);
+  box-shadow: 9px 9px 18px #969696, -9px -9px 18px #ffffff;
+}
+.cardcontainer a {
+  text-decoration: none;
+  color: black;
+}
